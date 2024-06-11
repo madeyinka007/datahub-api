@@ -1,0 +1,12 @@
+{
+    "MONGO_OPTION":{
+        "HOST":"127.0.0.1",
+        "PORT": "27017",
+        "DB_NAME": "2024-DHT-DB"
+    },
+    "BCRYPT_SALT":100,
+    "SMTP": {
+        "USER":"mustytryst@gmail.com",
+        "PASS":"dxri xqvu drrr xxea"
+    }
+}
